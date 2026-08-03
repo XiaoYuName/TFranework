@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: FontAsset Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: FontAsset
+  m_TableCollectionNameGuidString: 1113cdff584b85d4597c1990690ab876
+  m_Entries:
+  - m_Id: 11404546048
+    m_Key: DeftualFonts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9005207380004864
+    m_Key: DingDingFonts
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 2523262777365627078
+  m_KeyGenerator:
+    rid: 2523262777365627077
+  references:
+    version: 2
+    RefIds:
+    - rid: 2523262777365627077
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1780722542929
+    - rid: 2523262777365627078
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 11404546048
+          m_TableCodes:
+          - zh-CN
+          - zh-TW
+          - en
+          - ja-JP
+          - ko
+          - th
+          - vi
+        - m_KeyId: 9005207380004864
+          m_TableCodes:
+          - zh-CN
+          - zh-TW
+          - en
+          - ja-JP
+          - ko
+          - th
+          - vi
+        m_TypeString: TMPro.TMP_FontAsset, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null

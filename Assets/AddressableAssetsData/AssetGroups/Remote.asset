@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Remote
+  m_GUID: 62c2fa4e86790ac4c82b5810ad2c34fe
+  m_SerializeEntries:
+  - m_GUID: 0430d07f0a28ee8419dd6ecd43eb3b7a
+    m_Address: Assets/AddressableAssets/Remote/Texture2D/Backgrounds/AtlasCommon_346.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b88606cd1bf0334fa805ab32c6b600f
+    m_Address: Assets/AddressableAssets/Remote/Texture2D/Backgrounds/AtlasCommon_375.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 102d9aa88dd729c49819d0b595baf7a6
+    m_Address: Assets/AddressableAssets/Remote/Texture2D/Backgrounds/AtlasCommon_345.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bc0716b7d8450f4db03a66530b5bf58
+    m_Address: Assets/AddressableAssets/Remote/Prefabs/DamageNumber/GUI/CoinNumberTexUGUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 267790ffb19c83240b2a9a76961703d4
+    m_Address: Assets/AddressableAssets/Remote/Configs/Audio/AudioConfiguration.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ce4ce12dfe225d4da750b0432082535
+    m_Address: "Assets/AddressableAssets/Remote/Texture2D/Backgrounds/ChatGPT Image
+      2026\u5E747\u67089\u65E5 11_29_31.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31b07afc79099f44d8e58f1d3cd73f7c
+    m_Address: Assets/AddressableAssets/Remote/Texture2D/Backgrounds/AtlasCommon_330.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4137d07fed62a4b44bdc5c34adaeea2b
+    m_Address: Assets/AddressableAssets/Remote/Prefabs/UGUI/PopLoadingUI/PopLoadingUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ea25540cc73f4f4b8b22fb3aeb097e6
+    m_Address: Assets/AddressableAssets/Remote/Configs/Audio/XMixer.mixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 908970599bb94f84e915f73829f60e3b
+    m_Address: Assets/AddressableAssets/Remote/Texture2D/Backgrounds/AtlasCommon_314.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a55a88f696289cd46af5c436dbb33efe
+    m_Address: Assets/AddressableAssets/Remote/Prefabs/DamageNumber/GUI/FenNumberTexUGUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca860c1d4cc8ece48b0fe4f8a1cf01c3
+    m_Address: Assets/AddressableAssets/Remote/Texture2D/Backgrounds/AtlasCommon_367.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e345eb43a38067e4086eb21198bbfe3c
+    m_Address: Assets/AddressableAssets/Remote/Configs/LubanJson/tbuipagedata.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e89236724e3027c4ebeab4e148393fea
+    m_Address: Assets/AddressableAssets/Remote/Prefabs/AudioItem/MusicSource.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e99d91bbd30539846a13df30d68c4211
+    m_Address: Assets/AddressableAssets/Remote/Texture2D/Backgrounds/AtlasCommon_376.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 16e42000d8ee199428f26216c3eb2c2e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a85da0cef7e76fa438d26a45c2b20abc, type: 2}
+    - {fileID: 11400000, guid: 23ee9817bbe3b5a4084952ca4029f6dd, type: 2}

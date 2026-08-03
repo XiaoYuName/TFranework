@@ -1,0 +1,18 @@
+[
+  {
+    "PageID": "CommonUI",
+    "PagePath": "Assets/Resources/XFramework/Prefab/CommonUI.prefab",
+    "UIParent": 0,
+    "isTween": false,
+    "isMouseRightHide": false,
+    "Description": "主界面UI"
+  },
+  {
+    "PageID": "PopLoadingUI",
+    "PagePath": "Assets/AddressableAssets/Remote/Prefabs/UGUI/PopLoadingUI/PopLoadingUI.prefab",
+    "UIParent": 3,
+    "isTween": false,
+    "isMouseRightHide": false,
+    "Description": "通用Loading界面UI"
+  }
+]
