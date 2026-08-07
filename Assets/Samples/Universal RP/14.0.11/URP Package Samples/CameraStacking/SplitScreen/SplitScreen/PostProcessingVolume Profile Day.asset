@@ -18,7 +18,7 @@ MonoBehaviour:
     m_Value: 1
   threshold:
     m_OverrideState: 1
-    m_Value: 0.05
+    m_Value: 0.6
   intensity:
     m_OverrideState: 1
     m_Value: 0.5
@@ -32,6 +32,9 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: {r: 0.9685534, g: 0.9685534, b: 0.9685534, a: 1}
   highQualityFiltering:
+    m_OverrideState: 0
+    m_Value: 0
+  filter:
     m_OverrideState: 0
     m_Value: 0
   downscale:
