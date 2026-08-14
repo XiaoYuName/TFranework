@@ -78,10 +78,10 @@ MonoBehaviour:
     m_Value: 1
   threshold:
     m_OverrideState: 1
-    m_Value: 0.9
+    m_Value: 0.8
   intensity:
     m_OverrideState: 1
-    m_Value: 0.6
+    m_Value: 0.3
   scatter:
     m_OverrideState: 0
     m_Value: 0.7
@@ -230,7 +230,7 @@ MonoBehaviour:
     m_Value: {r: 0.3736693, g: 0.44025147, b: 0.3558007, a: 1}
   highlights:
     m_OverrideState: 1
-    m_Value: {r: 0.7936987, g: 0.913858, b: 0.9245283, a: 1}
+    m_Value: {r: 0.62010986, g: 0.7543086, b: 0.76729554, a: 1}
   balance:
     m_OverrideState: 0
     m_Value: 0
