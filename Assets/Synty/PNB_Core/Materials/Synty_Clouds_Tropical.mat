@@ -55,7 +55,7 @@ Material:
     - _BUILTIN_QueueOffset: 0
     - _Cloud_Speed: 0
     - _Cloud_Strength: 0.18
-    - _Enable_Fog: 1
+    - _Enable_Fog: 0
     - _Enable_Fresnel: 1
     - _Enable_Scattering: 0
     - _Fog_Density: 0.248
